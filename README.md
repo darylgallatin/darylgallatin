@@ -22,11 +22,13 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 
 ### **Highlighted Projects**
 - **[Enter-the-Wry-Cave](https://github.com/darylgallatin/Enter-the-Wry-Cave)**  
-  A darkly whimsical, AI‑enhanced interactive cave adventure built with React and custom game engine logic.
+  A darkly whimsical, AI‑enhanced interactive cave adventure built with React and custom game engine logic. A 6 month long project.
 
-- *(More projects coming soon)*
-
----
+- **[S3-user-vault](https://github.com/darylgallatin/S3-user-vault)**  
+   A simple cloud-based web application for entering and managing user information. Though you can run it locally on your PC if you want, but right now    you won't be able to save the database.
+  
+- **[tic-tac-go](https://github.com/darylgallatin/tic-tac-go)**  
+  A Game of tic-tac-toe on a 5x5 board combined using unicode text and an implimentation of minimax AI algorithm.
 
 ### 🧠 How I Built my latest project
 - **System Design:** Define project architecture, gameplay mechanics, and UX flow.  
