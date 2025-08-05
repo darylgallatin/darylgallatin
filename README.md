@@ -21,7 +21,7 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 ---
 
 ### **Highlighted Projects**
-- **[Enter the Wry Descent](https://github.com/darylgallatin/enter-the-wry-descent)**  
+- **[Enter-the-Wry-Cave](https://github.com/darylgallatin/Enter-the-Wry-Cave)**  
   A darkly whimsical, AI‑enhanced interactive cave adventure built with React and custom game engine logic.
 
 - *(More projects coming soon)*
