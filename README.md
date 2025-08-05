@@ -28,14 +28,15 @@ I build immersive, interactive web applications blending modern JavaScript frame
 
 ---
 
-### **About Me**
-- Started as a simple guessing game project, grew into a full‑scale interactive fiction engine.  
-- Skilled in **modern React patterns**, **complex state management**, and **AI‑assisted development workflows**.  
-- Constantly exploring new ways to integrate creative technologies with practical development.  
+### 🧠 How I Built my latest project
+- **System Design:** Define project architecture, gameplay mechanics, and UX flow.  
+- **AI‑Assisted Development:** Leverage AI tools for rapid prototyping, implementation, and optimization.  
+- **Integration & Testing:** Ensure seamless coordination across multi‑layered systems.  
+- **Iterative Refinement:** Collaborate with AI to fine‑tune performance, design, and functionality.  
 
 ---
 
 ### **Contact**
-- **Email:** darylgallatin@example.com  
-- **LinkedIn:** [linkedin.com/in/darylgallatin](#)  
+- **Email:** dgallatin95@hotmail.com 
+- **LinkedIn:** [linkedin.com/in/daryl‑gallatin](#) 
 - **Portfolio:** *(Coming soon)*  
