@@ -1,4 +1,5 @@
-# Hi, I’m Daryl Gallatin 👋
+# Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+
 
 **React Developer | Python Enthusiast | Creative Technologist**
 
