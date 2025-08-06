@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 # Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 **React Developer | Python Enthusiast | Creative Technologist**
