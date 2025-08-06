@@ -26,7 +26,7 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 ### **Tools I’ve Worked With**
 *Technologies I’ve used for development, deployment, and experimentation.*
 
-<p align="center">
+<p align="left">
   <!-- Row 1 -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
