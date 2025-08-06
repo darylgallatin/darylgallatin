@@ -7,10 +7,10 @@
 I build immersive, interactive web applications by blending modern JavaScript frameworks with thoughtful design. My focus is on clean, maintainable architecture — leveraging AI‑assisted coding workflows and advanced prompt engineering for rapid development — while personally driving complex problem‑solving, architectural design, strategic planning, and iterative testing to deliver engaging user experiences.
 
 ---
-
+<p align="center">
 ### **Tech Stack**
 
-<p align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
