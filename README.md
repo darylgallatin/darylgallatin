@@ -37,13 +37,7 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 </p>
 ---
 
-Got it — the mismatch you’re seeing is because **Shields.io badges resize dynamically based on text length**, so “LPIC 1” looks short and small, while “AWS Cloud Practitioner” stretches tall and long.
 
-We can **fix this by forcing every badge into a uniform size** using **HTML `<div>` containers** with consistent width and height. This also lets us **center the text** and keep rows visually even.
-
-Here’s a **clean, consistent** version:
-
-```markdown
 ### **Certifications**
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
@@ -72,20 +66,8 @@ Here’s a **clean, consistent** version:
   </a>
 
 </div>
-```
 
-### What this fixes:
 
-* **Every badge is now 220px wide & 50px tall** → all rows perfectly aligned.
-* **Flex layout** → centers them and keeps nice spacing (mobile-friendly).
-* Looks **polished**, no “weird” badge sizes.
-
----
-
-Do you want me to **make the Tech Stack icons match this same width/height** too?
-That way both your **skills** and **certifications** sections look perfectly uniform.
-
-Also — do you want the badges to **animate on hover** (slight grow/shadow)? Looks very “portfolio-ready.”
 
 ---
 
