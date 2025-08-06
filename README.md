@@ -138,6 +138,9 @@ I create immersive web applications using <strong>modern JavaScript frameworks</
 
 
 
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 ### **Contact**
 - **Email:** dgallatin95@hotmail.com  
 - **LinkedIn:** [www.linkedin.com/in/daryl-gallatin]
