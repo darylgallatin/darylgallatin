@@ -7,7 +7,7 @@
 I create immersive web applications using <strong>modern JavaScript frameworks</strong> with a focus on 
 <strong>clean architecture</strong> and <strong>interactive design</strong>. My workflow combines 
 <strong>AI‑assisted coding</strong> with <strong>prompt engineering</strong> for rapid development, while I lead the 
-<strong>system design, integration, and testing</strong> to bring ideas to life.
+<strong>system design, integration,  testing, media sourcing and creation</strong> to bring ideas to life.
 
 <p>
 <strong>My first major project</strong>: <br>
