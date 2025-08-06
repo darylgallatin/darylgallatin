@@ -7,16 +7,16 @@
 I build immersive, interactive web applications by blending modern JavaScript frameworks with thoughtful design. My focus is on clean, maintainable architecture — leveraging AI‑assisted coding workflows and advanced prompt engineering for rapid development — while personally driving complex problem‑solving, architectural design, strategic planning, and iterative testing to deliver engaging user experiences.
 
 ---
-<p align="center">
+
 ### **Tech Stack**
 
 
-<p align="center">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) </p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) </p>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   </p>
-<p align="center">
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -29,7 +29,7 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 ### **Tools I’ve Worked With**
 *Technologies I’ve used for development, deployment, and experimentation.*
 
-<p align="center">
+<p align="left">
   <!-- Row 1 -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
@@ -48,7 +48,7 @@ I build immersive, interactive web applications by blending modern JavaScript fr
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Row 2 -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
