@@ -130,6 +130,12 @@ I create immersive web applications using <strong>modern JavaScript frameworks</
 
 ---
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darylgallatin&show_icons=true&locale=en" alt="darylgallatin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darylgallatin&" alt="darylgallatin" /></p>
+
+
+
 ### **Contact**
 - **Email:** dgallatin95@hotmail.com  
 - **LinkedIn:** [linkedin.com/in/daryl‑gallatin](#)  
