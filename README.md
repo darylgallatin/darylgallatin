@@ -22,33 +22,42 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 ---
 
 ### **Certifications**
-<div align="center">
-
-<a href="https://www.credly.com/badges/51154c64-d5df-4cf8-8151-f963733d7c20" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"/>
-</a>
-
-<a href="https://www.credly.com/badges/fade43df-306a-4f87-a8a0-3df7724429b8/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/PCAP%20Python%20Associate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PCAP Associate Python Programmer"/>
-</a>
-
-<a href="https://www.credly.com/badges/e39b4d12-bc34-42f5-8c91-1c1c2118bc3f/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/PCEP%20Python%20Entry%20Level-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Entry Python Programmer"/>
-</a>
-
-<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000636135/eslu89r4jl" target="_blank">
-  <img src="https://img.shields.io/badge/Linux%20Essentials-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Essentials"/>
-</a>
-
-<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000636135/eslu89r4jl" target="_blank">
-  <img src="https://img.shields.io/badge/LPIC--1-333333?style=for-the-badge&logo=linux&logoColor=white" alt="LPIC-1"/>
-</a>
-
-<a href="https://www.credly.com/badges/693351c9-53c7-408d-9345-ad2372115244/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/Linux%2B%20Certified-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="CompTIA Linux+"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/51154c64-d5df-4cf8-8151-f963733d7c20" target="_blank">
+        <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/fade43df-306a-4f87-a8a0-3df7724429b8/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/PCAP%20Python%20Associate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PCAP Associate Python Programmer"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e39b4d12-bc34-42f5-8c91-1c1c2118bc3f/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/PCEP%20Python%20Entry%20Level-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Entry Python Programmer"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000636135/eslu89r4jl" target="_blank">
+        <img src="https://img.shields.io/badge/Linux%20Essentials-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Essentials"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000636135/eslu89r4jl" target="_blank">
+        <img src="https://img.shields.io/badge/LPIC--1-333333?style=for-the-badge&logo=linux&logoColor=white" alt="LPIC-1"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/693351c9-53c7-408d-9345-ad2372115244/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/Linux%2B%20Certified-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="CompTIA Linux+"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
