@@ -1,9 +1,8 @@
 # Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-
 **React Developer | Python Enthusiast | Creative Technologist**
 
-I build immersive, interactive web applications by blending modern JavaScript frameworks with thoughtful design. My focus is on clean, maintainable architecture — leveraging AI‑assisted coding workflows and advanced prompt engineering for rapid development — while personally driving complex problem‑solving, architectural design, strategic planning, and iterative testing to deliver engaging user experiences
+I build immersive, interactive web applications by blending modern JavaScript frameworks with thoughtful design. My focus is on clean, maintainable architecture — leveraging AI‑assisted coding workflows and advanced prompt engineering for rapid development — while personally driving complex problem‑solving, architectural design, strategic planning, and iterative testing to deliver engaging user experiences.
 
 ---
 
@@ -19,11 +18,10 @@ I build immersive, interactive web applications by blending modern JavaScript fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
 </p>
+
 ---
 
-## Certifications
-
-
+### **Certifications**
 <div align="center">
 
 <a href="https://www.credly.com/badges/51154c64-d5df-4cf8-8151-f963733d7c20" target="_blank">
@@ -52,20 +50,21 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 
 </div>
 
-
 ---
 
 ### **Highlighted Projects**
 - **[Enter-the-Wry-Cave](https://github.com/darylgallatin/Enter-the-Wry-Cave)**  
-  A darkly whimsical, AI‑enhanced interactive cave adventure built with React and custom game engine logic. A 6 month long project.
+  A darkly whimsical, AI‑enhanced interactive cave adventure built with React and custom game engine logic. A 6‑month development project.
 
 - **[S3-user-vault](https://github.com/darylgallatin/S3-user-vault)**  
-   A simple cloud-based web application for entering and managing user information. Though you can run it locally on your PC if you want, but right now    you won't be able to save the database.
-  
-- **[tic-tac-go](https://github.com/darylgallatin/tic-tac-go)**  
-  A Game of tic-tac-toe on a 5x5 board combined using unicode text and an implimentation of minimax AI algorithm.
+  A simple cloud-based web application for entering and managing user information. Though you can run it locally on your PC if you want, right now you won't be able to save the database.
 
-### 🧠 How I Built my latest project
+- **[tic-tac-go](https://github.com/darylgallatin/tic-tac-go)**  
+  A Game of tic-tac-toe on a 5x5 board combined using unicode text and an implementation of the minimax AI algorithm.
+
+---
+
+### 🧠 How I Build
 - **System Design:** Define project architecture, gameplay mechanics, and UX flow.  
 - **AI‑Assisted Development:** Leverage AI tools for rapid prototyping, implementation, and optimization.  
 - **Integration & Testing:** Ensure seamless coordination across multi‑layered systems.  
@@ -74,6 +73,7 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 ---
 
 ### **Contact**
-- **Email:** dgallatin95@hotmail.com 
-- **LinkedIn:** [linkedin.com/in/daryl‑gallatin](#) 
+- **Email:** dgallatin95@hotmail.com  
+- **LinkedIn:** [linkedin.com/in/daryl‑gallatin](#)  
 - **Portfolio:** *(Coming soon)*  
+ 
