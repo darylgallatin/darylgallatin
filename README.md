@@ -11,7 +11,7 @@ I create immersive web applications using <strong>modern JavaScript frameworks</
 
 <p>
 <strong>My first major project</strong>: <br>
-<strong>Enter the Wry Cave</strong> — completed over six months — a text/HTML‑based adventure powered by a custom‑built <strong>JavaScript/React game engine</strong>. While inspired by the classic <strong>Hunt the Wumpus/strong>, it delivers a far more<strong> immersive </strong>and narrative‑driven experience with sound, music and orignal content images and video.
+<strong>Enter the Wry Cave</strong> — completed over six months — a text/HTML‑based adventure powered by a custom‑built <strong>JavaScript/React game engine</strong>. While inspired by the classic <strong>Hunt the Wumpus</strong>, it delivers a far more<strong> immersive </strong>and narrative‑driven experience with sound, music and orignal content images and video.
 <p>
 ---
 
