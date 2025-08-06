@@ -140,6 +140,6 @@ I create immersive web applications using <strong>modern JavaScript frameworks</
 
 ### **Contact**
 - **Email:** dgallatin95@hotmail.com  
-- **LinkedIn:** [linkedin.com/in/daryl‑gallatin](#)  
+- **LinkedIn:** [www.linkedin.com/in/daryl-gallatin](#)  
 - **Portfolio:** *(Coming soon)*  
  
