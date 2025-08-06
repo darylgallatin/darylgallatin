@@ -3,11 +3,14 @@
 # Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 **React Developer | Python Enthusiast | Creative Technologist**
-
+<p>
 I build immersive, interactive web applications by blending modern JavaScript frameworks with thoughtful design. My focus is on clean, maintainable architecture — leveraging AI‑assisted coding workflows and advanced prompt engineering for rapid development — while personally driving complex problem‑solving, architectural design, strategic planning, and iterative testing to deliver engaging user experiences.
+</p>
 
+<p>
 My first major project:
 Enter the Wry Cave — completed over six months — is a React‑based JavaScript game powered by a custom‑built text/HTML game engine. While inspired by the classic Hunt the Wumpus, it delivers a far more immersive and narrative‑driven experience with sound, music and orignal content images and video.
+<p>
 ---
 
 ### **Tech Stack**
