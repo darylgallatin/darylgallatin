@@ -23,12 +23,7 @@ I build immersive, interactive web applications by blending modern JavaScript fr
 
 ## Certifications
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PCAP](https://img.shields.io/badge/PCAP-Python%20Associate-blue?style=for-the-badge&logo=python&logoColor=white)
-![PCEP](https://img.shields.io/badge/PCEP-Python%20Entry%20Level-blue?style=for-the-badge&logo=python&logoColor=white)
-![Linux Essentials](https://img.shields.io/badge/Linux%20Essentials-LPI-green?style=for-the-badge&logo=linux&logoColor=white)
-![LPIC-1](https://img.shields.io/badge/LPIC--1-LPI-green?style=for-the-badge&logo=linux&logoColor=white)
-![CompTIA Linux+](https://img.shields.io/badge/Linux+-CompTIA-blue?style=for-the-badge&logo=linux&logoColor=white)
+
 <div align="center">
 
 <a href="https://www.credly.com/badges/51154c64-d5df-4cf8-8151-f963733d7c20" target="_blank">
