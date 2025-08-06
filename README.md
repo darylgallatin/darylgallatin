@@ -130,6 +130,8 @@ I create immersive web applications using <strong>modern JavaScript frameworks</
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darylgallatin&show_icons=true&locale=en&layout=compact" alt="darylgallatin" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darylgallatin&show_icons=true&locale=en" alt="darylgallatin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darylgallatin&" alt="darylgallatin" /></p>
