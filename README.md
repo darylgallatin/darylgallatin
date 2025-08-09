@@ -78,9 +78,9 @@ I’m early in my journey as a developer, focusing on learning through building 
   A cloud‑ready Flask web app for entering, managing, and analyzing user information. Integrates with AWS S3 for secure storage, supports local fallback operation, and uses PyTorch‑powered sentiment analysis via a pre‑trained BERT model to evaluate note tone (Positive, Neutral, Negative). Includes bucket creation for the default AWS region, Docker deployment option, and a Bootstrap‑styled UI.
 
 - **[tic-tac-go](https://github.com/darylgallatin/tic-tac-go)**  
-  5×5 tic-tac-toe with **minimax AI** and Unicode board rendering.
+  5×5 tic-tac-toe written in Python  with **minimax AI** and Unicode board rendering.
 
-> *More in repos — including experiments with Flask, Nginx, and lightweight cloud deployments.*
+
 
 ---
 
