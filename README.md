@@ -3,13 +3,14 @@
 # Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
 **Early‑Career React & Python Developer · Exploring AI‑Assisted Development**
 
-
 I’m early in my journey as a developer, focusing on learning through building projects with **AI‑assisted workflows**. I’ve applied AI tools like **ChatGPT** and **Claude** to help me:
 - Scaffold and understand code in JavaScript, React, and Python
 - Experiment with **procedural content generation** and dynamic game states
 - Use **advanced prompt engineering** to create consistent AI‑generated visuals, voice effects, and narrative elements
 - Incorporate machine learning (PyTorch) for small features in my S3 project
 - Work iteratively with AI for troubleshooting, optimization, and extensive testing when making changes
+
+---
 
 > **Featured Project:** *Enter the Wry Cave* — An AI‑assisted, browser‑based narrative adventure built with a custom React/JavaScript game engine. Developed over six months, this was far from a “single‑prompt” project — it involved continuous design, coding, testing, and iteration. Features procedural state changes, AI‑generated visuals, AI‑generated voice effects and lines, plus curated sound effects and music from [OpenGameArt](https://opengameart.org/) and [Freesound.org](https://freesound.org/). Narrative system co‑developed with AI. [Play Now on Itch.io](https://darylgallatin.itch.io/enter-the-wry-cave)
 
@@ -74,7 +75,7 @@ I’m early in my journey as a developer, focusing on learning through building 
   Darkly whimsical cave adventure on a custom **React game engine**. Built over six months using **AI-assisted pipelines** for code, art, and narrative — while all **architecture, integration, and creative direction** were done by me.
 
 - **[S3-user-vault](https://github.com/darylgallatin/S3-user-vault)**  
-  Simple cloud-ready web app for entering and managing user info. Local run works; remote DB persistence is scoped for a later iteration.
+  A cloud‑ready Flask web app for entering, managing, and analyzing user information. Integrates with AWS S3 for secure storage, supports local fallback operation, and uses PyTorch‑powered sentiment analysis via a pre‑trained BERT model to evaluate note tone (Positive, Neutral, Negative). Includes bucket creation for the default AWS region, Docker deployment option, and a Bootstrap‑styled UI.
 
 - **[tic-tac-go](https://github.com/darylgallatin/tic-tac-go)**  
   5×5 tic-tac-toe with **minimax AI** and Unicode board rendering.
