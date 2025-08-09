@@ -1,7 +1,5 @@
-<!-- Header Banner -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="header banner"/>
-
-# Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="header banner" />
+# Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" alt="wave" />
 **React Developer · Python Enthusiast · Creative Technologist**
 
 I build immersive web apps with **modern JavaScript/React**, a focus on **clean architecture**, and **interactive design**. My workflow blends **AI-assisted development** and **advanced prompt engineering** with hands-on **system design, integration, testing, and original media creation**.
@@ -99,4 +97,4 @@ I build immersive web apps with **modern JavaScript/React**, a focus on **clean 
 <p align="center">
   <img src="https://github.com/darylgallatin/darylgallatin/blob/output/github-snake-dark.svg" alt="snake animation"/>
 </p>
-
+ 
