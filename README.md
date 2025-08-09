@@ -1,12 +1,18 @@
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="header banner" />
-# Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" alt="wave" />
-**React Developer · Python Enthusiast · Creative Technologist**
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="header banner"/>
 
-I build immersive web apps with **modern JavaScript/React**, a focus on **clean architecture**, and **interactive design**. My workflow blends **AI-assisted development** and **advanced prompt engineering** with hands-on **system design, integration, testing, and original media creation**.
+# Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
+**Early‑Career React & Python Developer · Exploring AI‑Assisted Development**
 
-> **Currently:** Shipping *Enter the Wry Cave* — a text/HTML adventure on a custom **React game engine** with narrative systems, sound/music, and original art/video assets.
 
----
+I’m early in my journey as a developer, focusing on learning through building projects with **AI‑assisted workflows**. I’ve applied AI tools like **ChatGPT** and **Claude** to help me:
+- Scaffold and understand code in JavaScript, React, and Python
+- Experiment with **procedural content generation** and dynamic game states
+- Use **advanced prompt engineering** to create consistent AI‑generated visuals, voice effects, and narrative elements
+- Incorporate machine learning (PyTorch) for small features in my S3 project
+- Work iteratively with AI for troubleshooting, optimization, and extensive testing when making changes
+
+> **Featured Project:** *Enter the Wry Cave* — An AI‑assisted, browser‑based narrative adventure built with a custom React/JavaScript game engine. Developed over six months, this was far from a “single‑prompt” project — it involved continuous design, coding, testing, and iteration. Features procedural state changes, AI‑generated visuals, AI‑generated voice effects and lines, plus curated sound effects and music from [OpenGameArt](https://opengameart.org/) and [Freesound.org](https://freesound.org/). Narrative system co‑developed with AI. [Play Now on Itch.io](https://darylgallatin.itch.io/enter-the-wry-cave)
+
 
 ## 📊 At a Glance
 <p align="center">
