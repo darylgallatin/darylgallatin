@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="https://github.com/darylgallatin.png" width="120" style="border-radius:50%;" alt="Daryl Gallatin avatar" />
 
   <h1>Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" /></h1>
 
