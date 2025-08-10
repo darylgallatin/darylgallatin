@@ -79,16 +79,26 @@
 </p>
 
 ---
-
 ## 🔭 Highlighted Projects
-- **[Enter-the-Wry-Cave](https://github.com/darylgallatin/Enter-the-Wry-Cave)**  
-  Darkly whimsical cave adventure on a custom **React game engine**. Built over six months using **AI-assisted pipelines** for code, art, and narrative — while all **architecture, integration, and creative direction** were done by me.
 
-- **[S3-user-vault](https://github.com/darylgallatin/S3-user-vault)**  
-  A cloud‑ready Flask web app for entering, managing, and analyzing user information. Integrates with AWS S3 for secure storage, supports local fallback operation, and uses PyTorch‑powered sentiment analysis via a pre‑trained BERT model to evaluate note tone (Positive, Neutral, Negative). Includes bucket creation for the default AWS region, Docker deployment option, and a Bootstrap‑styled UI.
-
-- **[tic-tac-go](https://github.com/darylgallatin/tic-tac-go)**  
-  5×5 tic-tac-toe written in Python  with **minimax AI** and Unicode board rendering.
+<table>
+  <tr>
+    <td align="center" width="50%">
+     <img src="https://raw.githubusercontent.com/darylgallatin/Enter-the-Wry-Cave/main/screenshots/Banner_Image_bones_room2.jpg" width="320" alt="Enter the Wry Cave screenshot"/>
+      <b>Enter-the-Wry-Cave</b><br/>
+      Darkly whimsical React adventure with AI-assisted pipelines and procedural state changes.<br/>
+      <a href="https://github.com/darylgallatin/Enter-the-Wry-Cave">Repo</a> ·
+      <a href="https://darylgallatin.itch.io/enter-the-wry-cave">Play</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/c15295bb-ba6f-4bea-a676-edf16c9e2c66" width="320" alt="tic-tac-go screenshot"/><br/>
+      <b>tic-tac-go</b><br/>
+      Python 5×5 tic-tac-toe with minimax AI and Unicode board rendering.<br/>
+      <a href="https://github.com/darylgallatin/tic-t![Uploading Banner_image_bones_room2.jpg…]()
+ac-go">Repo</a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -96,7 +106,7 @@
 
 ## 🧠 How I Build
 - **System Design** → architecture, gameplay loops, UX flows  
-- **AI-Assisted Development** → rapid prototyping & optimization  
+- **AI-Assisted Development** → rapid prototyping, optimization & lots of debugging  
 - **Integration & Testing** → end-to-end coordination across layers  
 - **Iterative Refinement** → tuning performance, design, accessibility  
 
