@@ -85,7 +85,8 @@
   </a>
 </p>
 
----## 🔭 Highlighted Projects
+---
+## 🔭 Highlighted Projects
 
 <table>
   <tr>
