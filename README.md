@@ -84,7 +84,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-     <img src="https://raw.githubusercontent.com/darylgallatin/Enter-the-Wry-Cave/main/screenshots/Banner_Image_bones_room2.jpg" width="320" alt="Enter the Wry Cave screenshot"/>
+     <img src="https://github.com/darylgallatin/Enter-the-Wry-Cave/blob/main/screenshots/Banner_image_bones_room2.jpg?raw=1" width="400" alt="Enter the Wry Cave screenshot">
       <b>Enter-the-Wry-Cave</b><br/>
       Darkly whimsical React adventure with AI-assisted pipelines and procedural state changes.<br/>
       <a href="https://github.com/darylgallatin/Enter-the-Wry-Cave">Repo</a> ·
