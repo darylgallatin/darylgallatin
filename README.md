@@ -78,13 +78,12 @@
   </a>
 </p>
 
----
-## 🔭 Highlighted Projects
+---## 🔭 Highlighted Projects
 
 <table>
   <tr>
     <td align="center" width="50%">
-     <img src="https://github.com/darylgallatin/Enter-the-Wry-Cave/blob/main/screenshots/Banner_image_bones_room2.jpg?raw=1" width="400" alt="Enter the Wry Cave screenshot">
+      <img src="https://github.com/darylgallatin/Enter-the-Wry-Cave/blob/main/screenshots/Banner_image_bones_room2.jpg?raw=1" width="400" alt="Enter the Wry Cave screenshot"><br/>
       <b>Enter-the-Wry-Cave</b><br/>
       Darkly whimsical React adventure with AI-assisted pipelines and procedural state changes.<br/>
       <a href="https://github.com/darylgallatin/Enter-the-Wry-Cave">Repo</a> ·
@@ -94,8 +93,21 @@
       <img src="https://github.com/user-attachments/assets/c15295bb-ba6f-4bea-a676-edf16c9e2c66" width="320" alt="tic-tac-go screenshot"/><br/>
       <b>tic-tac-go</b><br/>
       Python 5×5 tic-tac-toe with minimax AI and Unicode board rendering.<br/>
-      <a href="https://github.com/darylgallatin/tic-t![Uploading Banner_image_bones_room2.jpg…]()
-ac-go">Repo</a>
+      <a href="https://github.com/darylgallatin/tic-tac-go">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/darylgallatin/S3-user-vault/blob/main/screenshots/s3_vault_screenshot.jpg?raw=1" width="400" alt="S3-user-vault screenshot"><br/>
+      <b>S3-user-vault</b><br/>
+      Flask app for secure AWS S3 storage with sentiment analysis, Docker deployment, and Bootstrap UI.<br/>
+      <a href="https://github.com/darylgallatin/S3-user-vault">Repo</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://via.placeholder.com/400x225.png?text=Coming+Soon" width="400" alt="Placeholder screenshot"><br/>
+      <b>Coming Soon</b><br/>
+      Future project placeholder.<br/>
+      <a href="#">Repo</a>
     </td>
   </tr>
 </table>
