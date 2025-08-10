@@ -2,6 +2,7 @@
 
 # Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
 **Early‑Career React & Python Developer · Exploring AI‑Assisted Development**
+  with 6 to 12 months of self teaching  Front End Development
 
 I’m early in my journey as a developer, focusing on learning through building projects with **AI‑assisted workflows**. I’ve applied AI tools like **ChatGPT** and **Claude** to help me:
 - Scaffold and understand code in JavaScript, React, and Python
