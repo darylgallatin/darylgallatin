@@ -1,14 +1,24 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="header banner" />
 
-# Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
-**Early‑Career React & Python Developer · Exploring AI‑Assisted Development**
-  with 6 to 12 months of self teaching  Front End Development
+<div align="center">
 
-I’m early in my journey as a developer, focusing on learning through building projects with **AI‑assisted workflows**. I’ve applied AI tools like **ChatGPT** and **Claude** to help me:
-- Scaffold and understand code in JavaScript, React, and Python
-- Experiment with **procedural content generation** and dynamic game states
-- Use **advanced prompt engineering** to create consistent AI‑generated visuals, voice effects, and narrative elements
-- Incorporate machine learning (PyTorch) for small features in my S3 project
+  <img src="https://github.com/darylgallatin.png" width="120" style="border-radius:50%;" alt="Daryl Gallatin avatar" />
+
+  <h1>Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" /></h1>
+
+  <strong>Early-Career React & Python Developer · Exploring AI-Assisted Development</strong><br/>
+  <em>6–12 months of self-teaching in Front-End Development</em>
+
+  <p>
+    I’m early in my journey as a developer, focusing on learning through building projects with <strong>AI-assisted workflows</strong>. I’ve applied AI tools like <strong>ChatGPT</strong> and <strong>Claude</strong> to help me:
+  </p>
+
+</div>
+
+- Scaffold and understand code in JavaScript, React, and Python  
+- Experiment with **procedural content generation** and dynamic game states  
+- Use **advanced prompt engineering** to create consistent AI-generated visuals, voice effects, and narrative elements  
+- Incorporate machine learning (PyTorch) for small features in my S3 project  
 - Work iteratively with AI for troubleshooting, optimization, and extensive testing when making changes
 
 ---
