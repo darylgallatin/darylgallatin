@@ -90,36 +90,56 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/darylgallatin/Enter-the-Wry-Cave/blob/main/screenshots/Banner_image_bones_room2.jpg?raw=1" width="400" alt="Enter the Wry Cave screenshot"><br/>
-      <b>Enter-the-Wry-Cave</b><br/>
-      Darkly whimsical React adventure with AI-assisted pipelines and procedural state changes.<br/>
-      <a href="https://github.com/darylgallatin/Enter-the-Wry-Cave">Repo</a> ·
-      <a href="https://darylgallatin.itch.io/enter-the-wry-cave">Play</a>
+    <!-- Enter-the-Wry-Cave -->
+    <td align="center" width="50%" style="border:1px solid #ccc; border-radius:8px; overflow:hidden; vertical-align:top;">
+      <img src="https://github.com/darylgallatin/Enter-the-Wry-Cave/blob/main/screenshots/Banner_image_bones_room2.jpg?raw=1" style="width:100%; height:400px; object-fit:cover;" alt="Enter the Wry Cave screenshot">
+      <hr style="margin:0; border:0; border-top:1px solid #ccc;">
+      <div style="padding:10px;">
+        <b>Enter-the-Wry-Cave</b><br/>
+        Darkly whimsical React adventure with AI-assisted pipelines and procedural state changes.<br/>
+        <a href="https://github.com/darylgallatin/Enter-the-Wry-Cave">Repo</a> ·
+        <a href="https://darylgallatin.itch.io/enter-the-wry-cave">Play</a>
+      </div>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/c15295bb-ba6f-4bea-a676-edf16c9e2c66" width="320" alt="tic-tac-go screenshot"/><br/>
-      <b>tic-tac-go</b><br/>
-      Python 5×5 tic-tac-toe with minimax AI and Unicode board rendering.<br/>
-      <a href="https://github.com/darylgallatin/tic-tac-go">Repo</a>
+ <!-- tic-tac-go -->
+    <td align="center" width="50%" style="border:1px solid #ccc; border-radius:8px; overflow:hidden; vertical-align:top;">
+      <img src="https://github.com/user-attachments/assets/c15295bb-ba6f-4bea-a676-edf16c9e2c66" style="width:100%; height:400px; object-fit:cover;" alt="tic-tac-go screenshot">
+      <hr style="margin:0; border:0; border-top:1px solid #ccc;">
+      <div style="padding:10px;">
+        <b>tic-tac-go</b><br/>
+        Python 5×5 tic-tac-toe with minimax AI and Unicode board rendering.<br/>
+        <a href="https://github.com/darylgallatin/tic-tac-go">Repo</a>
+      </div>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="50%">
-      <img width="640" height="400" alt="S3_user_vault_screenshot" src="https://github.com/user-attachments/assets/410a41ac-81cb-4d63-8f7a-a64d29cfb930" />
-      <b>S3-user-vault</b><br/>
-      Flask app for secure AWS S3 storage with sentiment analysis, Docker deployment, and Bootstrap UI.<br/>
-      <a href="https://github.com/darylgallatin/S3-user-vault">Repo</a>
+    <!-- S3-user-vault -->
+    <td align="center" width="50%" style="border:1px solid #ccc; border-radius:8px; overflow:hidden; vertical-align:top;">
+      <img src="https://github.com/user-attachments/assets/410a41ac-81cb-4d63-8f7a-a64d29cfb930" style="width:100%; height:400px; object-fit:cover;" alt="S3_user_vault_screenshot">
+      <hr style="margin:0; border:0; border-top:1px solid #ccc;">
+      <div style="padding:10px;">
+        <b>S3-user-vault</b><br/>
+        Flask app for AWS S3 storage with BERT sentiment analysis, Docker deploy, and Bootstrap UI.<br/>
+        <a href="https://github.com/darylgallatin/S3-user-vault">Repo</a>
+      </div>
     </td>
-    <td align="center" width="50%">
-      <img width="643" height="400" alt="todo2-app screenshot" src="https://github.com/user-attachments/assets/a081017b-aa04-4b87-a2b1-f7b8624156d2" />
-      <b>todo2-app</b><br/>
-      A simple, clean Todo List application built with React and Vite.<br/>
-      <a href="https://github.com/darylgallatin/todo2-app">Repo</a> ·
-      <a href="https://darylgallatin.github.io/todo2-app/">Play</a>
+<!-- todo2-app -->
+    <td align="center" width="50%" style="border:1px solid #ccc; border-radius:8px; overflow:hidden; vertical-align:top;">
+      <img src="https://github.com/user-attachments/assets/a081017b-aa04-4b87-a2b1-f7b8624156d2" style="width:100%; height:400px; object-fit:cover;" alt="screenshot">
+      <hr style="margin:0; border:0; border-top:1px solid #ccc;">
+      <div style="padding:10px;">
+        <b>todo2-app</b><br/>
+        Clean React + Vite todo app with localStorage, sounds, and animated background.<br/>
+        <a href="https://github.com/darylgallatin/todo2-app">Repo</a> ·
+        <a href="https://darylgallatin.github.io/todo2-app/">Play</a>
+      </div>
     </td>
   </tr>
 </table>
+
+
+
 
 
 
