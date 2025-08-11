@@ -99,23 +99,22 @@
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/c15295bb-ba6f-4bea-a676-edf16c9e2c66" width="320" alt="tic-tac-go screenshot"/><br/>
-      <b>tic-tac-go</b><br/>
+      <b>tic-tac-go</strong></b><br/>
       Python 5×5 tic-tac-toe with minimax AI and Unicode board rendering.<br/>
       <a href="https://github.com/darylgallatin/tic-tac-go">Repo</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/darylgallatin/S3-user-vault/blob/main/screenshots/s3_vault_screenshot.jpg?raw=1" width="400" alt="S3-user-vault screenshot"><br/>
-      <b>S3-user-vault</b><br/>
+            <b>S3-user-vault</b><br/>
       Flask app for secure AWS S3 storage with sentiment analysis, Docker deployment, and Bootstrap UI.<br/>
       <a href="https://github.com/darylgallatin/S3-user-vault">Repo</a>
     </td>
     <td align="center" width="50%">
-      <img src="https://via.placeholder.com/400x225.png?text=Coming+Soon" width="400" alt="Placeholder screenshot"><br/>
-      <b>Coming Soon</b><br/>
-      Future project placeholder.<br/>
-      <a href="#">Repo</a>
+       <img width="643" height="400" alt="screenshot" src="https://github.com/user-attachments/assets/a081017b-aa04-4b87-a2b1-f7b8624156d2" />
+      <b>todo2-app</b><br/>
+      A simple, clean Todo List application built with React and Vite.<br/>
+      <a href="https://github.com/darylgallatin/todo2-app">Repo</a>
     </td>
   </tr>
 </table>
