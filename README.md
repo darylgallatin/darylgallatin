@@ -106,6 +106,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
+      <img width="640" height="400" alt="S3_user_vault_screenshot" src="https://github.com/user-attachments/assets/410a41ac-81cb-4d63-8f7a-a64d29cfb930" />
             <b>S3-user-vault</b><br/>
       Flask app for secure AWS S3 storage with sentiment analysis, Docker deployment, and Bootstrap UI.<br/>
       <a href="https://github.com/darylgallatin/S3-user-vault">Repo</a>
