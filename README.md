@@ -5,20 +5,22 @@
 
   <h1>Hi, I’m Daryl Gallatin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" /></h1>
 
-  <strong>Early-Career React & Python Developer · Exploring AI-Assisted Development</strong><br/>
-  <em>6–12 months of self-teaching in Front-End Development</em>
+<strong>Early-Career React & Python Developer · Former Optical Network Engineer</strong><br/>
+<em>Transitioning to Software Development with AI-Assisted Workflows</em>
 
-  <p>
-    I’m early in my journey as a developer, focusing on learning through building projects with <strong>AI-assisted workflows</strong>. I’ve applied AI tools like <strong>ChatGPT</strong> and <strong>Claude</strong> to help me:
-  </p>
+<p>
+  After 14+ years in optical transport systems (DWDM, SONET, OTN), I’m now focused on front-end development and AI-assisted project building. Over the past 6–12 months, I’ve used tools like <strong>ChatGPT</strong> and <strong>Claude</strong> to:
+</p>
 
 </div>
 
+
 - Scaffold and understand code in JavaScript, React, and Python  
-- Experiment with **procedural content generation** and dynamic game states  
-- Use **advanced prompt engineering** to create consistent AI-generated visuals, voice effects, and narrative elements  
-- Incorporate machine learning (PyTorch) for small features in my S3 project  
-- Work iteratively with AI for troubleshooting, optimization, and extensive testing when making changes
+- Build interactive UIs with **React** and APIs with **Flask**  
+- Deploy projects on **AWS EC2** and **Docker**  
+- Prototype procedural content and dynamic game states  
+- Create consistent AI-generated visuals, voice effects, and narrative elements
+
 
 ---
 
